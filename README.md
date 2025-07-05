@@ -134,25 +134,20 @@ Mapped cluster traits to business strategies such as:
 ---
 
 ## Deployment
-This project includes a user-friendly web interface built using Streamlit.
+This project includes a user-friendly **web interface** built using **Streamlit**.
 
 To explore the project interactively:
 
- Download the app.py file from this repository
+-  **Download the `app.py` file** from this repository  
+-  **Run it using Streamlit** on your local machine  
 
- Run it using Streamlit on your local machine
+This will launch a **browser-based UI** where you can:
+- Upload your own dataset  
+- Perform **K-Means clustering analysis**  
+- Visualize **cluster distributions using PCA**  
+- Download the **clustered results** for further use  
 
- This will launch a browser-based UI where you can:
-
-Upload your own dataset
-
-Perform K-Means clustering analysis
-
-Visualize cluster distributions using PCA
-
-Download the clustered results for further use
-
-Note: The app is not yet deployed on Streamlit Cloud. Local execution is currently the supported mode.
+>  **Note**: The app is **not yet deployed** on Streamlit Cloud. Local execution is currently the supported mode.
 
 ---
 
