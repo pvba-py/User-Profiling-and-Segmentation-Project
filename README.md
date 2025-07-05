@@ -23,7 +23,7 @@
 
 ## Project Overview
 
-This project focuses on segmenting users based on behavioral, demographic, and engagement features using unsupervised learning techniques. By identifying user groups, we can design more personalized and effective advertising strategies.
+This project focuses on user profiling and segmentation using unsupervised machine learning techniques, specifically the K-Means clustering algorithm. By analyzing user attributes such as age, income level, engagement behavior, and device usage, we identify distinct user groups (segments) within a digital audience. These insights enable more personalized marketing strategies, efficient resource allocation, and improved customer engagement. The entire workflow — from data preparation to visualization and business interpretation — is integrated into an interactive Streamlit web application.
 
 ---
 
