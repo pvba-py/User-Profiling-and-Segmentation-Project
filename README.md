@@ -68,7 +68,7 @@ Digital platforms often deal with a diverse range of users. Treating all users t
 
 ## Dataset Overview
 
-- **Filename**: user_profiles_for_ads.csv  
+- **Filename**: user_data.csv  
 - **Records**: 1,000 users  
 - **Features**: 16
 
